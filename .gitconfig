@@ -1,0 +1,5 @@
+[user]
+	email = play-scenarios-in-browser@program
+	name = play-scenarios-in-browser
+
+# git config --local include.path ../.gitconfig
